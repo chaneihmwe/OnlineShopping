@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">online_shopping</string>
+    <string name="latest_arrivals">Latest Arrivals</string>
+    <string name="choose_by_country">Choose By Country</string>
+</resources>
